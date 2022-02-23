@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **about how writing can improve my professional and personal development.**
 
-- 👨‍💻 All of my projects are available at [loganpashby.com](loganpashby.com)
+- 👨‍💻 All of my projects are available at [loganpashby.com](http://loganpashby.com)
 
-- 📝 I regularly write articles on [loganpashby.com/blogs](loganpashby.com/blogs)
+- 📝 I regularly write articles on [loganpashby.com/blogs](http://loganpashby.com/blogs)
 
-- 💬 Ask me about **my deep learning research.**
+- 💬 Ask me about **my deep learning research as Western Washington University.**
 
-- 📫 How to reach me **pashbylogan@gmail.com**
+- 📫 How to reach me: **[shoot me an email](pashbylogan@gmail.com)!**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hYARt8g3bqmXK7iwjZ8SnaPRjCigT2uh/view](https://drive.google.com/file/d/1hYARt8g3bqmXK7iwjZ8SnaPRjCigT2uh/view)
+- 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1hYARt8g3bqmXK7iwjZ8SnaPRjCigT2uh/view)
 
 - ⚡ Fun fact **I play french horn in an orchestra, love all technology and philosophical podcasts, and I'm currently rediscovering the power of writing.**
 
