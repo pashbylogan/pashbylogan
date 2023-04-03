@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Logan Pashby</h1>
-<h3 align="center">A full-stack developer at Cypris</h3>
+<h3 align="center">A senior software engineer at Cypris</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pashbylogan&label=Profile%20views&color=0e75b6&style=flat" alt="pashbylogan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/loganpashby" target="blank"><img src="https://img.shields.io/twitter/follow/loganpashby?logo=twitter&style=for-the-badge" alt="loganpashby" /></a> </p>
 
-- 🔭 I’m currently working on [getting up to speed at Cypris.](https://ipcypris.com/)
+- 🔭 I’m currently working on [delivering high-quality market insights at Cypris.](https://cypris.ai/)
 
 - 🌱 I’m currently learning **about how writing can improve my professional and personal development.**
 
-- 👨‍💻 All of my projects are available at [loganpashby.com](http://loganpashby.com)
+- 👨‍💻 Some of my public projects are available at [loganpashby.com](http://loganpashby.com)
 
 - 📝 I regularly write articles on [loganpashby.com/blogs](http://loganpashby.com/blogs)
 
